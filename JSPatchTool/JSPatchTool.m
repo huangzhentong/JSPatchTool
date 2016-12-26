@@ -7,7 +7,7 @@
 //
 
 #import "JSPatchTool.h"
-
+#import <JPEngine.h>
 @implementation JSPatchTool
 +(void)testScriptInBundle
 {

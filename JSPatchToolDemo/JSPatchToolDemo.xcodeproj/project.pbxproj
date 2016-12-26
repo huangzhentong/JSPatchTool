@@ -221,6 +221,7 @@
 				TargetAttributes = {
 					63AF4C501DBDABF60050BE8C = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 53DA7ZAKF8;
 						ProvisioningStyle = Automatic;
 					};
 					63AF4C691DBDABF60050BE8C = {
@@ -439,6 +440,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 53DA7ZAKF8;
 				INFOPLIST_FILE = JSPatchToolDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = huang.JSPatchToolDemo;
@@ -450,6 +452,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 53DA7ZAKF8;
 				INFOPLIST_FILE = JSPatchToolDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = huang.JSPatchToolDemo;
@@ -522,6 +525,7 @@
 				63AF4C801DBDABF60050BE8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		63AF4C811DBDABF60050BE8C /* Build configuration list for PBXNativeTarget "JSPatchToolDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +534,7 @@
 				63AF4C831DBDABF60050BE8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		63AF4C841DBDABF60050BE8C /* Build configuration list for PBXNativeTarget "JSPatchToolDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +543,7 @@
 				63AF4C861DBDABF60050BE8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
